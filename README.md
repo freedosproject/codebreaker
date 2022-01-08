@@ -1,5 +1,5 @@
 # codebreaker
-A number puzzle game
+A number puzzle game for DOS
 
 You have 5 attempts to guess a random 5-digit code. Each number is only
 used once. Can you guess the code in time??
